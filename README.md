@@ -6,6 +6,6 @@ En esta carpeta he inlcuido algunos ficheros que pueden ser usados para introduc
 
 En [esta pagina](/Instalación.ipynb) encontramos una guía para la instalación.
 
-## Primer ejemplo de red neuronal: $\sin{x}$
+## Primer ejemplo de red neuronal: El seno
 
 Hemos preparado [este](/seno.ipynb) cuaderno de Jupyter que permite ver somo sería crear una red para estimar el seno.
